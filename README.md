@@ -10,3 +10,5 @@ It is a simple Resturant management website using html, css, js :)
 ![image alt](https://github.com/Suhas-l6361/simple-restorent-manage/blob/cb8ca354e567607488a392aa220fccf6ca1b37d4/Screenshot%20(22).png)
 
 ![image alt](https://github.com/Suhas-l6361/simple-restorent-manage/blob/3c06ce2369052ab8febb57a5f279dd52c5be4e4a/Screenshot%20(23).png)
+
+![image alt](https://github.com/Suhas-l6361/simple-restorent-manage/blob/f19845fee4957bf72767e8433577f57e176dcab6/Screenshot%20(24).png)
